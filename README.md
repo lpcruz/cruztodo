@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hi. 
+
+I made a todo app that was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![image](src/assets/cruztodo.gif)
 
 ## Available Scripts
 
